@@ -12,6 +12,7 @@
 		B67B1EA41CC6C7CE00D88781 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B67B1EA21CC6C7CE00D88781 /* Main.storyboard */; };
 		B67B1EA61CC6C7CE00D88781 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B67B1EA51CC6C7CE00D88781 /* Assets.xcassets */; };
 		B67B1EA91CC6C7CE00D88781 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B67B1EA71CC6C7CE00D88781 /* LaunchScreen.storyboard */; };
+		B6D3E7621CC8498F00046DD8 /* racineDB.sql in Resources */ = {isa = PBXBuildFile; fileRef = B6D3E7611CC8498F00046DD8 /* racineDB.sql */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B67B1EA51CC6C7CE00D88781 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B67B1EA81CC6C7CE00D88781 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B67B1EAA1CC6C7CE00D88781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6D3E7611CC8498F00046DD8 /* racineDB.sql */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = racineDB.sql; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B67B1E9E1CC6C7CE00D88781 /* AppDelegate.swift */,
 				B67B1EA01CC6C7CE00D88781 /* ViewController.swift */,
 				B67B1EA21CC6C7CE00D88781 /* Main.storyboard */,
+				B6D3E7611CC8498F00046DD8 /* racineDB.sql */,
 				B67B1EA51CC6C7CE00D88781 /* Assets.xcassets */,
 				B67B1EA71CC6C7CE00D88781 /* LaunchScreen.storyboard */,
 				B67B1EAA1CC6C7CE00D88781 /* Info.plist */,
@@ -124,6 +127,7 @@
 			files = (
 				B67B1EA91CC6C7CE00D88781 /* LaunchScreen.storyboard in Resources */,
 				B67B1EA61CC6C7CE00D88781 /* Assets.xcassets in Resources */,
+				B6D3E7621CC8498F00046DD8 /* racineDB.sql in Resources */,
 				B67B1EA41CC6C7CE00D88781 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +290,7 @@
 				B67B1EAF1CC6C7CE00D88781 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
